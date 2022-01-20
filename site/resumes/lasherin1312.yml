@@ -34,10 +34,10 @@ basic_info:
     # languages you speak, levels inculde: Native, Professional
     languages:
       - idiom: English
-        level: Native
+        level: Native, Professional
 
       - idiom: Mexican Spanish
-        level: Proficient
+        level: Native
 
     # Interests or hobies
     interests:
