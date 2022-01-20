@@ -1,0 +1,70 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Erin
+    last_name: Lash
+    
+    # Define yourself in 4-5 words
+    motto: I am a novice programmer and I am severely enjoying it. I want to decolonize everything.
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: Learning to code and becoming a programmer is important to me not only because I enjoy it, but also because it is incredibly important for women in my demographic to represent and have a presence in tech.  
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: 
+    # Contact Information
+    email: lasherin1312@gmail.com
+    phone: (707) 812-4627
+    linkedin: https://www.linkedin.com/in/erinpineda/
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: lasherin1312
+    
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Mexican Spanish
+        level: Proficient
+
+    # Interests or hobies
+    interests:
+      - item: Ecology
+
+      - item: Mycology
+
+      - item: Coding
+
+# Your previous education
+education:
+    - degree: Some College
+      university:  Napa Valley College
+      time: 2011-2013
+    
+# Your previous job experiences or voluntier
+experiences:
+    - role: Bartender
+      time: Jan 2019-October 2020
+      company: Virgin Hotels- San Francisco
+      details: |
+       -Took orders, prepared drinks
+       -Stocked and ordered beverage items
+       -Created drinks for menus, specialized in low-water usage ingredients
+
+
+skills:
+-CSS & HTML5 (proficient)
+-Ruby (novice)
+-JavaScript (novice)
