@@ -65,6 +65,18 @@ experiences:
 
 
 skills:
--CSS & HTML5 (proficient)
--Ruby (novice)
--JavaScript (novice)
+    toolset:
+      - name: HTML5 & CSS
+        level: 60%
+      
+      - name: Bootstrap
+        level: 60%
+
+      - name: Ruby
+        level: 50%
+
+      - name: JavaScript
+        level: 50%
+
+      - name: PowerBI
+        level: 80%
